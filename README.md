@@ -1,4 +1,6 @@
 # px4_msgs
+Forked to be a submodule of the repository: https://github.com/hmer101/multi_drone_slung_load_master/tree/main. The remainder of this file is unchaged from the original repository.
+
 
 [![GitHub license](https://img.shields.io/github/license/PX4/px4_msgs.svg)](https://github.com/PX4/px4_msg/blob/master/LICENSE) [![Build package](https://github.com/PX4/px4_msgs/workflows/Build%20package/badge.svg)](https://github.com/PX4/px4_msgs/actions)
 
